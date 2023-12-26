@@ -1,12 +1,13 @@
 [
-    { "name": "", "url": "" },
-    { "name": "", "url": "" },
-    { "name": "", "url": "" },
-    { "name": "", "url": "" },
-    { "name": "", "url": "" },
-    { "name": "", "url": "" },
-    { "name": "", "url": "" },
-    { "name": "", "url": "" },
-    { "name": "", "url": "" },
-    { "name": "", "url": "" }
+    { "name": "VOX FM", "url": "https://pldm.ml/radio?url=https://www.eskago.pl/radio/vox-fm" },
+    { "name": "ESKA ROCK", "url": "https://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-rock" },
+    { "name": "ESKA WARSZAWA", "url": "https://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-warszawa" },
+    { "name": "ESKA POZNAŃ", "url": "https://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-poznan" },
+    { "name": "ESKA IMPRESKA", "url": "https://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-impreska" },
+    { "name": "ESKA RZESZÓW", "url": "https://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-rzeszow" },
+    { "name": "ESKA GORĄCA 20", "url": "https://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-goraca-20" },
+    { "name": "ESKA ŚLĄSK", "url": "https://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-slask" },
+    { "name": "SUPERNOVA WARSZAWA", "url": "https://pldm.ml/radio?url=https://www.eskago.pl/radio/supernova-warszawa" },
+    { "name": "RADIO PLUS LUBLIN", "url": "https://pldm.ml/radio?url=https://www.eskago.pl/radio/radio-plus-lublin" },
+    { "name": "ESKA GORĄCA 100", "url": "https://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-goraca-100" }
 ]
